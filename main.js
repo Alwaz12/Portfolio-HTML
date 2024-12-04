@@ -1,15 +1,12 @@
 var typed = new Typed(".typewriter-text ", {
   strings: [
     " ",
-    "Front-End Web Developer",
-
-    "Web Developer",
-
-    "Freelancer",
-
-    "Ui/Ux Designer",
-
-    "Graphic Designer",
+    "Front-End & AI Developer",
+    
+    "Agentic AI Developer",
+    
+    "AI Developer",
+    
   ],
   typeSpeed: 100,
   backSpeed: 60,
